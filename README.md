@@ -34,7 +34,7 @@ I am a passionate software developer and student at Carleton University interest
 </center>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine-moon&layout=compact&langs_count=8&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine-moon&layout=compact&langs_count=8&theme=tokyonight)
 
 ---
 
