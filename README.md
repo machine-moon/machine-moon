@@ -34,13 +34,7 @@ I am a passionate software developer and student at Carleton University interest
 </center>
 
 
----
-
-📈 **My Stats:**
-
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=machine-moon&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine-moon&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=machine-moon&layout=compact&langs_count=8&theme=cobalt)
 
 ---
 
