@@ -15,8 +15,8 @@ Check out my portfolio website: [t-ibrahimm.github.io](https://t-ibrahimm.github
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=machine-moon&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machine-moon&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=machine-moon&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=machine-moon&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br/>
 </div>
 
 
