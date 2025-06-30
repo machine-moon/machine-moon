@@ -2,7 +2,7 @@
     <img src="https://preview.redd.it/ignore-for-my-git-v0-a1m991yttwqc1.png?width=1080&crop=smart&auto=webp&s=22df33632164c0a7f0b996394b26e1322f1fe0bd" alt="MasterHead">
 </p>
 
-<h1 align="center"> Hi! I'm Tarek 🙂</h1>
+<h1 align="center"> Hi, I'm Tarek 🙂</h1>
 
 <p align="center">
     I am a passionate software developer and student at Carleton University, with a strong interest in technology and innovation.<br>
